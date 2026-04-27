@@ -3,7 +3,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![OWL Version](https://img.shields.io/badge/OWL-2%20DL-blue)](https://www.w3.org/TR/owl2-profiles/)
 [![Ontology Version](https://img.shields.io/badge/version-1.0-green)](ontology/current/onTEPT_v1.0.rdf)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 **OnTEPT** (*Ontología para la identificación del Trastorno de Estrés Postraumático*) es una ontología OWL 2 DL multimodal que integra los criterios diagnósticos del DSM-5 y la CIE-11, instrumentos psicométricos estandarizados y datos electrofisiológicos (EEG) para la identificación automatizada del TEPT mediante razonamiento ontológico.
 
@@ -136,7 +135,7 @@ onTEPT/
 
 - Python 3.9 o superior
 - Java 11 o superior (necesario para los razonadores OWL)
-- [Protégé 5.x](https://protege.stanford.edu/) (recomendado para exploración visual)
+- [Protégé 5.2](https://protege.stanford.edu/) (recomendado para exploración visual)
 
 ### Instalación
 
@@ -345,9 +344,9 @@ Las contribuciones son bienvenidas. Por favor consultar [`CONTRIBUTING.md`](CONT
 ## Contacto
 
 - **Desarrollo y mantenimiento:** Alejandro [Apellido] — Universidad de Nariño, Colombia
-- **Correo:** [correo@udenar.edu.co]
-- **ORCID:** [https://orcid.org/XXXX-XXXX-XXXX-XXXX]
+- **Correo:** [joseal.salazar@unicauca.edu.co]
+- **ORCID:** [https://orcid.org/0000-0001-7378-0579)]
 
 ---
 
-*OnTEPT forma parte de una investigación doctoral en ingeniería biomédica centrada en el apoyo computacional al diagnóstico de trastornos de estrés postraumático.*
+*OnTEPT forma parte de una investigación doctoral en Ingeniería Telemática, centrada en el apoyo computacional al diagnóstico de trastornos de estrés postraumático.*
