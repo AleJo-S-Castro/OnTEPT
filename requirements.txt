@@ -1,0 +1,17 @@
+# OnTEPT — Dependencias Python
+# Instalar con: pip install -r requirements.txt
+
+# Manipulación de ontologías OWL
+owlready2>=0.46
+
+# Consultas SPARQL y manipulación RDF
+rdflib>=7.0.0
+
+# Utilidades
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Interfaz gráfica (opcional, solo para code/interface/)
+# Descomenta si vas a usar la interfaz:
+# tkinter  # incluido en Python estándar
+# customtkinter>=5.2.0
