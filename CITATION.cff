@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: >
+  If you use OnTEPT in your research, please cite it using the
+  metadata in this file.
+
+title: >
+  OnTEPT: A Multimodal OWL 2 DL Ontology for the Automated
+  Identification of Post-Traumatic Stress Disorder
+
+authors:
+  - family-names: "[Apellido]"
+    given-names: "Alejandro"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    affiliation: >
+      Universidad de Nariño, Facultad de Ingeniería,
+      Pasto, Nariño, Colombia
+
+version: "1.0"
+date-released: "2025-XX-XX"
+doi: "10.5281/zenodo.XXXXXXX"
+url: "https://github.com/TU_USUARIO/onTEPT"
+repository-code: "https://github.com/TU_USUARIO/onTEPT"
+license: CC-BY-4.0
+
+abstract: >
+  OnTEPT is an OWL 2 DL ontology that integrates the diagnostic
+  criteria of DSM-5 and ICD-11 for post-traumatic stress disorder
+  (PTSD), three psychometric instruments (PCL-5, CAPS-5,
+  PC-PTSD-5), and electroencephalographic (EEG) features into a
+  single formal knowledge representation. The ontology enables
+  automated patient classification through OWL reasoning, formal
+  interoperability between DSM-5 and ICD-11, explicit item-to-
+  criterion mappings via the evaluatesSymptomCluster annotation
+  property, and logical inconsistency detection. OnTEPT was
+  developed and validated with real and synthetic patient data
+  at the Universidad de Nariño, Colombia.
+
+keywords:
+  - ontology
+  - OWL 2 DL
+  - PTSD
+  - post-traumatic stress disorder
+  - DSM-5
+  - ICD-11
+  - psychometric instruments
+  - EEG
+  - knowledge representation
+  - biomedical informatics
+  - mental health informatics
+  - automated diagnosis
+  - interoperability
+
+references:
+  - type: article
+    title: >
+      [Título del manuscrito asociado — pendiente de publicación]
+    authors:
+      - family-names: "[Apellido]"
+        given-names: "Alejandro"
+    journal: "[Nombre de la revista]"
+    year: 2025
+    doi: "10.XXXX/XXXXXXX"
